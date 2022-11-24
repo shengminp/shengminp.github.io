@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Shengmin Piao"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Shengmin Piao"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sungmin630.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sungmin630/sungmin630.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shengmin Piao"
-  avatar           :
+  avatar           : "sungmin.jpg"
   bio              :
   location         : "Seoul, South Korea"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/sungmin630"
+  github           : "sungmin630"
   google_plus      :
   keybase          :
   instagram        :
