@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shengmin Piao"
+  name             :
   avatar           : "sungmin.jpg"
-  bio              :
+  bio              : "朴圣民/박성민"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           :
