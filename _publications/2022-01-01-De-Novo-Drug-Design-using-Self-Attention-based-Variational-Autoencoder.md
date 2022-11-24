@@ -10,4 +10,4 @@ citation:
 ---
 [Download paper here](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002809344)
 
-Recommended citation: 	Shengmin Piao, Jonghwan Choi, Sangmin Seo, Kyeonghun Kim, and Sanghyun Park. (2021). "De Novo Drug Design using Self-Attention based Variational Autoencoder" <i>KIPS Transaction on Software and Data Engineering</i>. 11(1), 11-18.
+Recommended citation: Shengmin Piao, Jonghwan Choi, Sangmin Seo, Kyeonghun Kim, and Sanghyun Park. (2021). "De Novo Drug Design using Self-Attention based Variational Autoencoder" <i>KIPS Transaction on Software and Data Engineering</i>. 11(1), 11-18.
