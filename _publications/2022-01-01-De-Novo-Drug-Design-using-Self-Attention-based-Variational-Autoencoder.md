@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-01-01-De-Novo-Drug-Design-using-Self-Attention-based-Variational-Autoencoder
 excerpt:
 date: 2022-01-01
-venue: ', KIPS Transaction on Software and Data Engineering'
+venue: 'KIPS Transaction on Software and Data Engineering'
 paperurl: 
 citation:
 ---
