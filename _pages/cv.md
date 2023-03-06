@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* Aug.2020 - Present: Research Assistant
+* Aug.2020 - Jan.2023: Research Assistant
   * Data Engineering lab, Yonsei University
   * Duties included: Conducting lab experiments
 
