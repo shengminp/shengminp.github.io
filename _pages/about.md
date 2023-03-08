@@ -14,8 +14,8 @@ Hello! I am a post-master student at the Computer Science at the Yonsei Universi
 
 Research Interest
 ======
-*Designing methods that extract rich but explainable knowledge from natural or formal language. 
-*Efficiently generate meaningful data through a specific and targeted approach.
+* Designing methods that extract rich but explainable knowledge from natural or formal language. 
+* Efficiently generate meaningful data through a specific and targeted approach.
 
 
 For more information check out my [Publications](https://sungmin630.github.io/publications/) and [CV](https://sungmin630.github.io/cv/).
