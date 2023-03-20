@@ -15,9 +15,8 @@ Hello! I am a post-master student at the Computer Science at the Yonsei Universi
 Research Interest
 ======
 * Language generation
-  * Efficiently generate meaningful data through a specific and targeted approach.
-* Interpretable AI
   * Designing methods that extract rich but explainable knowledge from natural or formal language.
+  * Efficiently generate meaningful data through a specific and targeted approach.
 
 
 For more information check out my [Publications](https://sungmin630.github.io/publications/) and [CV](https://sungmin630.github.io/cv/).
