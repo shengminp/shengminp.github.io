@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science & Techonology, Yanbian University, 2020
-* M.S. in Computer Science, Yonsei University, 2022
+* B.S. in Computer Science & Techonology, Yanbian University, 2016 ~ 2020
+* M.S. in Computer Science, Yonsei University, 2020 ~ 2022
+* Ph.D. in Artificial Intelligence, Yonsei University, 2023 ~ present
 
 Research experience
 ======
