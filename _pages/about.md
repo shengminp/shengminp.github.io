@@ -10,10 +10,13 @@ redirect_from:
 
 About Me
 ======
-Hello! I am a post-master student at the Computer Science at the Yonsei University.
+Hello! I am a doctral student at the Artificial Intelligence at the Yonsei University.
 
 Research Interest
 ======
+* Natural language reasoning
+  * A clear research topic is currently being sought
+  
 * Language generation
   * Designing methods that extract rich but explainable knowledge from natural or formal language.
   * Efficiently generate meaningful data through a specific and targeted approach.
