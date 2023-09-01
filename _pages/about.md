@@ -10,6 +10,7 @@ redirect_from:
 
 About Me
 ======
+test
 Hello! I am a doctral student at the Artificial Intelligence at the Yonsei University.
 
 Research Interest
