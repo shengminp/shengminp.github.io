@@ -11,9 +11,9 @@ title                    : "Shengmin Piao"
 title_separator          : "-"
 name                     : &name "Shengmin Piao"
 description              : &description "personal description"
-url                      : https://sungmin630.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shengmin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sungmin630/sungmin630.github.io"
+repository               : "shengminp/shengmin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "sungmin630@yonsei.ac.kr"
+  email            : "shengminp@yonsei.ac.kr"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sungmin630"
+  github           : "shengminp"
   google_plus      :
   keybase          :
   instagram        :
