@@ -15,7 +15,8 @@ Hello! I am a doctral student at the Artificial Intelligence at the Yonsei Unive
 Research Interest
 ======
 * Natural language reasoning
-  * A clear research topic is currently being sought
+  * Defeasible Reasoning: Designing methods that allow the model to reason in a more flexible way.
+  * Causal Reasoning: Designing the model to be more efficient at understanding the causal of human actions.
   
 * Language generation
   * Designing methods that extract rich but explainable knowledge from natural or formal language.
