@@ -16,7 +16,6 @@ Research Interest
 ======
 * Natural language reasoning
   * Designing methods that allow the model to reason in a more flexible way.
-  * Designing the model to be more efficient at understanding the causal of various events.
   
 * Language generation
   * Designing methods that extract rich but explainable knowledge from natural or formal language.
