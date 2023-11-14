@@ -22,4 +22,4 @@ Research Interest
   * Efficiently generate meaningful data through a specific and targeted approach.
 
 
-For more information check out my [Publications](https://sungmin630.github.io/publications/) and [CV](https://sungmin630.github.io/cv/).
+For more information check out my [Publications](https://shengminp.github.io/publications/) and [CV](https://shengminp.github.io/cv/).
