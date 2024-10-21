@@ -10,16 +10,14 @@ redirect_from:
 
 About Me
 ======
-Hello! I am a doctral student at the Artificial Intelligence at the Yonsei University.
+Hello! I am a doctral student in Artificial Intelligence at the Yonsei University.
 
 Research Interest
 ======
 * Natural language reasoning
-  * Designing methods that allow the model to reason in a more flexible way.
-  
-* Language generation
-  * Designing methods that extract rich but explainable knowledge from natural or formal language.
-  * Efficiently generate meaningful data through a specific and targeted approach.
+  * Developing methods that enable models to reason more flexibly.
+  * Designing methods to extract rich, explainable knowledge from natural or formal language.
+  * Generating meaningful data efficiently through targeted and specific approaches.
 
 
 For more information check out my [Publications](https://shengminp.github.io/publications/) and [CV](https://shengminp.github.io/cv/).
