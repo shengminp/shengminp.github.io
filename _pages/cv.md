@@ -12,8 +12,11 @@ redirect_from:
 Education
 ======
 * Ph.D in South Korea, Yonsei University, 2026 (expected)
+  * Artificial Intelligence
 * M.S. in South Korea, Yonsei University, 2022
+  * Computer Science
 * B.S. in China, Yanbian University, 2020
+  * Computer Science & Technology
 
 Work experience
 ======
