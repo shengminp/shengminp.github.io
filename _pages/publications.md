@@ -17,4 +17,4 @@ author_profile: true
 
 
 ### Preprints
-* LitE-SQL: A Lightweight and Efficient Text-to-SQL Framework with Vector-based Schema Linking and Execution-Guided Self-Correction. Shengmin Piao*, **Jieun Lee***, Sanghyun Park. **ArXiv, 2025** [📖](https://arxiv.org/abs/2510.09014)
+* LitE-SQL: A Lightweight and Efficient Text-to-SQL Framework with Vector-based Schema Linking and Execution-Guided Self-Correction. **Shengmin Piao***, Jieun Lee*, Sanghyun Park. **ArXiv, 2025** [📖](https://arxiv.org/abs/2510.09014)
