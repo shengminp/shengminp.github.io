@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+:mortar_board: Education
 ======
 * Ph.D in South Korea, Yonsei University, 2026 (expected)
   * Artificial Intelligence
@@ -18,7 +18,7 @@ Education
 * B.S. in China, Yanbian University, 2020
   * Computer Science & Technology
 
-Work experience
+:office: Work experience
 ======
 * 2020~2026: Research Assistant
   * Data Engineering LAB, Yonsei University
