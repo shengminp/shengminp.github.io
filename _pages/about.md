@@ -15,7 +15,7 @@ My research primarily focuses on the development of natural language reasoning m
 
 **:thought_balloon: Reasoning Model**
 * Enable the model to learn reasoning using natural language. [TinyThiner](https://aclanthology.org/2025.naacl-long.309/)
-* Enable the model to perform reasoning in latent way. [To Be Published]
+* Enable the model to perform reasoning in latent way. [SpiralThinker](https://arxiv.org/abs/2511.08983)
 * Enable the model to update reasoning capability during test-time.
 
 **:pencil2: Formal Language Generation**
