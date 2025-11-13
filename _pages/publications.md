@@ -18,3 +18,4 @@ author_profile: true
 
 ### :globe_with_meridians: Preprints
 * LitE-SQL: A Lightweight and Efficient Text-to-SQL Framework with Vector-based Schema Linking and Execution-Guided Self-Correction. **Shengmin Piao**\*, Jieun Lee*, Sanghyun Park. **ArXiv, 2025** [📖](https://arxiv.org/abs/2510.09014)
+* SpiralThinker: Latent Reasoning through an Iterative Process with Text-Latent Interleaving. **Shengmin Piao***, Sanghyun Park. **ArXiv, 2025** [📖](https://arxiv.org/abs/2511.08983)
