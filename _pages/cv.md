@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+:bookmark_tabs: Resume
+======
+[Download](/files/Resume.pdf)
+
 :mortar_board: Education
 ======
 * Ph.D in South Korea, Yonsei University, 2027.02 (expected)
