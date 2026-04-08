@@ -11,7 +11,7 @@ redirect_from:
 
 :mortar_board: Education
 ======
-* Ph.D in South Korea, Yonsei University, 2026 (expected)
+* Ph.D in South Korea, Yonsei University, 2027.02 (expected)
   * Artificial Intelligence
 * M.S. in South Korea, Yonsei University, 2022
   * Computer Science
