@@ -20,4 +20,4 @@ My research primarily focuses on the development of natural language reasoning m
   
 **:pencil2: Formal Language Generation**
 * Molecule generation [SELF-EdiT](https://link.springer.com/article/10.1007/s10489-023-04915-8)
-* Text2SQL [LitE-SQL](https://arxiv.org/abs/2510.09014)
+* Text2SQL [LitE-SQL](https://aclanthology.org/2026.findings-eacl.186/)
