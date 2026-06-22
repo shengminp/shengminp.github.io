@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a PhD at Yonsei University!
+I am currently pursuing a Ph.D. in Artificial Intelligence at Yonsei University.
 
 :rocket: Research
 ======
-My research primarily focuses on the development of natural language reasoning models and formal language generation.
+My research focuses on **learning-signal design for language reasoning models**, including reasoning distillation, latent reasoning, and reinforcement-learning-based reasoning. I am also interested in **structured and formal language generation**, such as Text-to-SQL and molecular generation.
 
 **:thought_balloon: Reasoning Model**
 * Enable the model to learn reasoning using natural language. [TinyThiner](https://aclanthology.org/2025.naacl-long.309/)
