@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Shengmin Piao"
 title_separator          : "-"
 name                     : &name "Shengmin Piao"
-description              : &description "Graduate student at Yonsei University"
+description              : &description "PhD Researcher in LLM Reasoning and Post-Training at Yonsei University"
 url                      : https://shengminp.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shengminp.github.io"
@@ -22,9 +22,9 @@ repository               : "shengminp.github.io"
 author:
   # Biographic information
   avatar           : "me.jpg"
-  name             : "朴圣民/박성민"
+  name             : "Shengmin Piao (朴圣民/박성민)"
   pronouns         : # example: "she/her"  
-  bio              : "NLPer"
+  bio              : "LLM Reasoning & Post-Training Researcher"
   location         : "Seoul, South Korea"
   employer         : "Yonsei University"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/shengmin-p-708587290"
+  linkedin         : "shengmin-p-708587290"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
