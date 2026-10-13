@@ -22,8 +22,8 @@ redirect_from:
 * B.S. in China, Yanbian University, 2020
   * Computer Science & Technology
 
-:office: Work experience
+:office: Research Experience
 ======
-* 2020~2026: Research Assistant
+* 2020-Present: Graduate Researcher
   * Data Engineering LAB, Yonsei University
   * Supervisor: Professor Sanghyun Park
